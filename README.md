@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![perfil](https://user-images.githubusercontent.com/48523760/157900589-06f858a2-a7cc-46e3-9ca0-062505040989.png)
 
 **federico-osandon/federico-osandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
