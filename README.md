@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-Fuente: https://www.iteramos.com/pregunta/34047/github-readmemd-imagen-central
-
-<p align="center"> <img src='https://user-images.githubusercontent.com/48523760/157900589-06f858a2-a7cc-46e3-9ca0-062505040989.png' width='100px' /> </p>
+<p align="center"> <img src='https://user-images.githubusercontent.com/48523760/157900589-06f858a2-a7cc-46e3-9ca0-062505040989.png' width='500px' /> </p>
 
 ![perfil](https://user-images.githubusercontent.com/48523760/157900589-06f858a2-a7cc-46e3-9ca0-062505040989.png)
 
