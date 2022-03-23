@@ -9,7 +9,5 @@ Here are some ideas to get you started:
 Hi there 👋 Hola! 👋 Olá!
 Thanks for visiting my GitHub!
 
- 
 
-Js Ts React HTML CSS java spring docker jest mysql mongodb heroku handlebars
 
